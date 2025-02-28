@@ -23,7 +23,7 @@ const Navbarcomponent = () => {
   return (
     <Navbar expand="lg" className="bg-dark text-white mb-3 fixed-top">
       <Container fluid>
-        <Navbar.Brand as={Link} to="/" className='text-white'>Babai Shopping</Navbar.Brand>
+        <Navbar.Brand as={Link} to="/" className='text-white'>Go Market</Navbar.Brand>
         <div className="d-flex justify-content-end">
           <Navbar.Toggle aria-controls="offcanvasNavbar" />
         </div>
